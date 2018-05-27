@@ -1,0 +1,28 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import "~font-awesome/scss/font-awesome.scss";
+
+@import "custom";
+
+// toastr
+@import "~toastr/build/toastr.css";
+
+
+//librerias 
+@import "_flexslider";
+@import "_jquery.fancybox";
+@import "_main";
+@import "_estilos";
+@import "_custom";
+//@import "_responsive";
+//@import "_font-icon";
+@import "_animate.min"; 
+
